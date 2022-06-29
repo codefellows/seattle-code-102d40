@@ -1,0 +1,32 @@
+/* body {
+    background: red;
+} */
+body {
+    margin: 0px;
+}
+
+header {
+    border: 10px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav ul li{
+    list-style: none;
+    /* display: flex; */
+    display: inline;
+}
+
+img {
+    width: 300px;
+}
+
+#intro {
+    background: rgb(93, 192, 93);
+}
+
+.section-header{
+    color: blue;
+}
