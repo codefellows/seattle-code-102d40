@@ -52,5 +52,8 @@ y += x;    // assigning the value of (y + x) to the variable y
 // Look out for syntax and small details
 
 // TOOLS TO USE
-// repl.it <-- test your JS here
+// repl.it <-- test your JS here 
 // codepen.io <-- test your html, css here (you can also test JS, but it's tricky)
+
+// My repl: https://replit.com/@KassieBradshaw/102d40-FinalReview#index.js
+// My codepen: https://codepen.io/kassiebradshaw/pen/ZExGWbg
